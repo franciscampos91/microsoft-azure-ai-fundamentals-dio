@@ -1,5 +1,7 @@
 # Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
+O reconhecimento facial e a transformação de imagens em dados são tarefas comuns em muitos cenários de aprendizado de máquina e análise de dados. O Microsoft Azure oferece várias ferramentas e serviços para ajudar nesses processos, incluindo o Azure Machine Learning (Azure ML) e seus recursos relacionados.
+
 Vamos iniciar os projetos no **Vision Studio** através do link https://portal.vision.cognitive.azure.com/gallery/featured.
 ![imagem1](https://github.com/franciscampos91/microsoft-azure-ai-fundamentals-dio/blob/main/DP02%20-%20Vis%C3%A3o%20Computacional/images/01.png)
 
@@ -34,3 +36,8 @@ Esta função extrai textos de imagem, seja um documento, algo escrito a mão  o
 
 Através do optical character recognition (OCR) é feita a extração do texto detectado na imagem e exibido ao lado da imagem.
 ![imagem11](https://github.com/franciscampos91/microsoft-azure-ai-fundamentals-dio/blob/main/DP02%20-%20Vis%C3%A3o%20Computacional/images/11.png)
+
+## Considerações finais
+
+Os serviços que foram mencionados podem ser acessados e utilizado por outros aplicativos ou serviços. Podemos exemplificar sua aplicação em um sistema que detecta as faces e esta conectado a uma servidor de pessoas procuradas pela justiça com rostos cadastrados, se a face detectada for reconhecida e encontrada no banco, o sistema emititá alertas.
+Podemos ainda utilizadar para o armazenamento de documentos físicos, o sistema irá reconhecer os textos e transfromará a imagem em dados.
