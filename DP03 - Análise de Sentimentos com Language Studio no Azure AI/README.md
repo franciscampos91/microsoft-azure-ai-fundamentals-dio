@@ -32,5 +32,7 @@ No final, veremos o texto original e quais as palavras-chave que foram identific
 ## Considerações finais
 
 A análise de sentimentos da Azure AI é uma ferramenta poderosa que permite avaliar a tonalidade emocional que é expressada em um texto.
+
 A ferramenta **Analyze Sentiment and Opinions** (Analisar Sentimentos e Opiniões) é uma capacidade oferecida pela Azure AI pertencente aos serviços cognitivos da Azure. Ela utiliza técnicas avançadas de processamento de linguagem natural (PLN) para compreender e avaliar a emoção e a opinião expressas em texto, fazendo a análise de sentimentos e detecção de opiniões.
+
 Em resumo, a ferramenta "Analyze Sentiment and Opinions" oferece uma solução abrangente para extrair insights valiosos de texto, ajudando a compreender melhor a percepção do público, identificar oportunidades e tomar decisões mais informadas.
